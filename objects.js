@@ -1,6 +1,6 @@
 var playlist = {
-  artistName: 'The Residents',
-  songTitle: 'Japanese Watercolor'
+  theResidents: 'Japanese Watercolor',
+  
 };
 
 function updatePlaylist (playlist, artistName, songTitle){
